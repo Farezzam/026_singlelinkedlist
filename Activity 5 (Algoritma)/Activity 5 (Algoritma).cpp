@@ -8,5 +8,9 @@ struct Node{
 };
 
 Node* START = NULL;
+
+void addNote() {
+
+}
 	
 
